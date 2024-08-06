@@ -55,3 +55,4 @@ The trained model's accuracy is evaluated on the test data to measure its perfor
 A confusion matrix is generated to further analyze the model's performance in classifying fake news correctly.
 Conclusion
 The project demonstrates the application of NLP techniques for preprocessing text data and the use of a machine learning model to detect fake news. The process includes data cleaning, feature extraction, model training, and evaluation, showcasing the end-to-end workflow of building a fake news detection system.
+
