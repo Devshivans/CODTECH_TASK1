@@ -1,8 +1,12 @@
 Name:- Dev shivhare                                                                                                                                                                                                                  
-company:- Codtech IT Solution                                                             
+company:- Codtech IT Solution                 
+
 ID:- CT6A1734
+
 Domain:- Artificial Intelligence
+
 Duration:- july-August
+
 Mentor:- Neela santosh kumar
 
 OVERVIEW OF TASK 1:
